@@ -1,0 +1,22 @@
+{
+  "name": "gitbadges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbansalWolfPack/GitBadges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbansalWolfPack/GitBadges/issues"
+  },
+  "homepage": "https://github.com/bbansalWolfPack/GitBadges#readme",
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  }
+}
